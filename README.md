@@ -20,7 +20,7 @@ matrix = np.array([[  4, 2], [2, 4]])
 eigenvalues, eigenvectors = np.linalg.eig(matrix)
 print("Eigen values are", eigenvalues, "and Eigen Vectors are",  eigenvectors)
 ````````
-## Output:![Alt text](output4-2.png)
-``````
+## Output:![Alt text](<eigen vector.png>)
+
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
